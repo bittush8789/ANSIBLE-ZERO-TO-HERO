@@ -15,7 +15,7 @@ Day 2: Ansible Adhoc Commands
 - Examples of common Adhoc commands for system management tasks.
 - Exploring the power of Adhoc commands for quick tasks.
 
-Day 3: Writing Your First Ansible Playbook
+Day 3: Writing Your First Ansible Playbook.
 
 - Understanding YAML basics and Ansible playbook structure.
 - Introduction to Ansible structure: Playbook, Play, Modules, Tasks and Collections.
