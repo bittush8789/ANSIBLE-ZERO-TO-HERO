@@ -16,7 +16,7 @@ Tools continuously monitor and ensure compliance with the defined policies.
 Policies as code are stored in version control systems (e.g., Git), allowing for versioning, auditing, and change tracking.
 This ensures that any changes to policies are transparent and traceable.
 
-### Integration with DevOps Tools
+## Integration with DevOps Tools 
 PaC integrates with DevOps tools and platforms, enabling seamless policy enforcement across development, testing, and production environments.
 Common integrations include CI/CD tools, configuration management tools, and cloud management platforms.
 
