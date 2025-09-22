@@ -12,7 +12,7 @@ pip install boto3
 ansible-galaxy collection install amazon.aws
 ```
 
-## Setup Vault 
+## Setup Vault #
 
 1. Create a password for vault
 
