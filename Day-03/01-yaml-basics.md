@@ -12,7 +12,7 @@ number: 42
 boolean: true
 ```
 
-### List 
+## List 
 
 ```
 fruits:
