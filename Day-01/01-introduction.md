@@ -2,7 +2,7 @@
 
 ## What is Ansible ?
 
-Ansible is an open source IT automation engine that automates 
+Ansible is an open source IT automation engine that automates.
 - provisioning 
 - configuration management
 - application deployment
