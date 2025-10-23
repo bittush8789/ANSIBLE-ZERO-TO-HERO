@@ -8,7 +8,7 @@
 
 When the system is in the state your playbook describes Ansible does not change anything, even if the playbook runs multiple times.
 
-for example, run the below shell script twice and you will notice the script will fail. Which means shell scripting is not idempotent in nature.
+for example, run the below shell script twice and you will notice the script will fail. Which means shell scripting is not idempotent in nature
 
 ```
 #/bin/bash
