@@ -11,7 +11,7 @@ playbooks and environments.
 
 ## Key Components of an Ansible Role
 
-### Tasks
+## Tasks
 The main list of actions that the role performs.
 
 ### Handlers
