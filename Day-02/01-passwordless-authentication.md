@@ -1,8 +1,8 @@
-# How to setup Passwordless Authentication
+## How to setup Passwordless Authentication
 
 ## EC2 Instances
 
-### Using Public Key
+## Using Public Key
 
 ```
 ssh-copy-id -f "-o IdentityFile <PATH TO PEM FILE>" ubuntu@<INSTANCE-PUBLIC-IP>
